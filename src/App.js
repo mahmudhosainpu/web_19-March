@@ -12,8 +12,8 @@ function App() {
 
 
 
-      {/* <Header />
-      <ByeAndSell /> */}
+      <Header />
+      <ByeAndSell />
       <Footer/>
 
 
