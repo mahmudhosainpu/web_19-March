@@ -9,7 +9,7 @@ const Footer = () => {
 
       <div className="lg:flex lg:justify-between gap-6 xl:gap-10">
 
-        <div className=" space-y-4 sm:w-max sm:pr-4 lg:pr-14 lg:border-r border-gray-300 pb-5">
+        <div className=" space-y-4 sm:w-max sm:pr-4 lg:pr-14 xl:pr-32 lg:border-r border-gray-300 pb-5">
           <h3 className="text-sm font-medium text-center sm:text-left" style={{ "color": "#333333" }}>JOIN OUR MAILING LIST</h3>
 
           <div className="flex justify-center sm:justify-start">
@@ -25,7 +25,7 @@ const Footer = () => {
         </div>
 
 
-        <div className="px-4 sm:px-0 py-4  grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 gap-8">
+        <div className="px-4 sm:px-0 py-4  grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 gap-8 xl:gap-20">
 
           <div className="space-y-1">
             <h1 className="text-sm font-bold pb-2" style={{ "color": "#333333" }}>OUR LOCATIONS</h1>

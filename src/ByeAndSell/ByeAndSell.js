@@ -3,12 +3,12 @@ import React from "react";
 const ByeAndSell = ({ onScroll }) => {
 
   return (
-    <div className="-mt-16 md:-mt-24 lg:-mt-32 ">
+    <div className="-mt-5 md:-mt-24 lg:-mt-32 ">
 
 
       <div className=" pb-10 px-4 md:px-8 lg:px-20 xl:px-28 w-full" style={{ "background": "#F8FBFF" }}>
 
-        <h3 className="py-4 md:py-8 text-center sm:text-left sm:text-xl lg:text-2xl font-bold" style={{ "color": "#0E3860" }}>Buy and Sell Locally In Ireland</h3>
+        <h3 className="py-8 md:pb-8 text-center sm:text-left sm:text-xl lg:text-2xl font-bold" style={{ "color": "#0E3860" }}>Buy and Sell Locally In Ireland</h3>
 
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 ">
           <img className=" cursor-pointer" src="Services-04 1.png" />

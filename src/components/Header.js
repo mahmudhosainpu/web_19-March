@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div className="h-max" style={{ "background": "#F8FBFF" }}>
+    <div className="h-max " style={{ "background": "#F8FBFF" }}>
 
 
 
@@ -36,9 +36,9 @@ const Header = () => {
             </div>
           </div>
 
-          <div className="flex absolute space-x-3 top-28 sm:top-32 left-10">
-            <button className="text-white py-2 px-4 lg:px-14 lg:py-3 rounded-sm font-medium " style={{ "backgroundColor": "#2695FF", }}>Search Auction</button>
-            <button className="text-white py-2 px-4 lg:px-14 lg:py-3 rounded-sm font-medium " style={{ "backgroundColor": "#F8B234", "color": "#BA0C26" }}>Search Auction</button>
+          <div className="flex absolute space-x-3 top-20 left-8 xs:top-28 sm:top-32 xs:left-10">
+            <button className="text-white px-5 py-2.5 rounded-sm font-medium " style={{ "backgroundColor": "#2695FF", }}>Search Auction</button>
+            <button className="text-white px-5 py-2.5 rounded-sm font-medium " style={{ "backgroundColor": "#F8B234", "color": "#BA0C26" }}>Search Auction</button>
           </div>
 
           <div>
@@ -94,21 +94,21 @@ const Header = () => {
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5 text-white cursor-pointer my-auto">
                   <path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 100 11 5.5 5.5 0 000-11zM2 9a7 7 0 1112.452 4.391l3.328 3.329a.75.75 0 11-1.06 1.06l-3.329-3.328A7 7 0 012 9z" clip-rule="evenodd" />
                 </svg>
-                <h3 className="text-white my-auto ml-2 font-medium cursor-pointer">Search</h3>
+                <h3 className="text-white my-auto ml-2 text-sm lg:text-base font-medium cursor-pointer">Search</h3>
               </div>
 
-              <h3 className="my-auto text-white  font-medium cursor-pointer">Login</h3>
-              <h3 className="my-auto text-white  font-medium cursor-pointer">Signup</h3>
+              <h3 className="my-auto text-white  text-sm lg:text-base font-medium cursor-pointer">Login</h3>
+              <h3 className="my-auto text-white  text-sm lg:text-base font-medium cursor-pointer">Signup</h3>
 
-              <button className="text-white font-medium py-1.5 px-6 rounded-sm" style={{ "background": "#34D8B3" }}>Place Ad</button>
+              <button className="text-white text-sm lg:text-base font-medium py-2 lg:py-1.5 px-6 rounded-sm" style={{ "background": "#34D8B3" }}>Place Ad</button>
 
             </div>
 
           </div>
 
-          <div className="flex absolute space-x-3 top-40 lg:top-52 xl:top-60 left-10 lg:left-20 xl:left-28">
+          <div className="flex absolute space-x-3 top-40 lg:top-52 xl:top-72 left-10 lg:left-20 xl:left-28">
             <button className="text-white py-2 px-4 lg:px-14 lg:py-3 rounded-sm font-medium" style={{ "backgroundColor": "#2695FF", }}>Search Auction</button>
-            <button className="text-white py-2 px-4 lg:px-14 lg:py-3 rounded-sm font-medium" style={{ "backgroundColor": "#F8B234", "color": "#BA0C26" }}>Search Auction</button>
+            <button className="text-white py-2 px-4 lg:px-14 lg:py-3 rounded-sm font-medium" style={{ "backgroundColor": "#F8B234", "color": "#BA0C26" }}>Place Auction</button>
           </div>
 
           {/* Banner image */}
