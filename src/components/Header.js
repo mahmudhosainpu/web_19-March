@@ -70,11 +70,6 @@ const Header = () => {
                 <h3 className="text-sm md:text-base my-auto ml-1" style={{ "color": "#0E3860" }}>example@xyz.com</h3>
               </div>
 
-              <div className="flex">
-                <img className="w-4 h-4 my-auto cursor-pointer" src="call.png" />
-                <h3 className="text-sm md:text-base my-auto ml-1" style={{ "color": "#0E3860" }}>+330001110009</h3>
-              </div>
-
             </div>
 
           </div>
