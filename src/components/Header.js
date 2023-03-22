@@ -36,7 +36,7 @@ const Header = () => {
             </div>
           </div>
 
-          <div className="flex absolute space-x-3 top-20 left-8 xs:top-28 sm:top-32 xs:left-10">
+          <div className="flex absolute space-x-3 top-20 left-8 xs:top-28 sm:top-32 xs:left-14">
             <button className="text-white px-5 py-2.5 rounded-sm font-medium " style={{ "backgroundColor": "#2695FF", }}>Search Auction</button>
             <button className="text-white px-5 py-2.5 rounded-sm font-medium " style={{ "backgroundColor": "#F8B234", "color": "#BA0C26" }}>Place Auction</button>
           </div>
