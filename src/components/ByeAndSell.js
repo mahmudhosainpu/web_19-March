@@ -10,7 +10,7 @@ const ByeAndSell = ({ onScroll }) => {
 
         <h3 className="pb-8 md:pb-8 text-center sm:text-left sm:text-xl lg:text-2xl font-bold" style={{ "color": "#0E3860" }}>Buy and Sell Locally In Ireland</h3>
 
-        <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 ">
+        <div className="grid grid-cols-2 sm:grid-cols-5 gap-4 ">
           <img className=" cursor-pointer" src="Services-04 1.png" />
           <img className=" cursor-pointer" src="Cars-04 1.png" />
           <img className=" cursor-pointer" src="Home-04 1.png" />
