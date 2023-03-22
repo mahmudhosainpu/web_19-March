@@ -91,7 +91,7 @@ const ByeAndSell = ({ onScroll }) => {
                   <h3 className="text-sm my-auto" style={{ "color": "#0E3860" }}>Current bid:</h3>
                   <h3 className="ml-3 font-medium my-auto" style={{ "color": "#0E3860" }}>$501</h3>
               </div>
-              <button className="text-white py-2 px-6 rounded-sm text-sm" style={{ "background":"#34D8B3", }}>Place A Bid</button>
+              <button className="text-white py-2 px-6 rounded-sm text-sm" style={{ "background":"#34D8B3", }}>Place a Bid</button>
             </div>
           </div>
 
@@ -136,7 +136,7 @@ const ByeAndSell = ({ onScroll }) => {
                   <h3 className="text-sm my-auto" style={{ "color": "#0E3860" }}>Current bid:</h3>
                   <h3 className="ml-3 font-medium my-auto" style={{ "color": "#0E3860" }}>$501</h3>
               </div>
-              <button className="text-white py-2 px-6 rounded-sm text-sm" style={{ "background":"#34D8B3", }}>Place A Bid</button>
+              <button className="text-white py-2 px-6 rounded-sm text-sm" style={{ "background":"#34D8B3", }}>Place a Bid</button>
             </div>
           </div>
 
@@ -181,7 +181,7 @@ const ByeAndSell = ({ onScroll }) => {
                   <h3 className="text-sm my-auto" style={{ "color": "#0E3860" }}>Current bid:</h3>
                   <h3 className="ml-3 font-medium my-auto" style={{ "color": "#0E3860" }}>$501</h3>
               </div>
-              <button className="text-white py-2 px-6 rounded-sm text-sm" style={{ "background":"#34D8B3", }}>Place A Bid</button>
+              <button className="text-white py-2 px-6 rounded-sm text-sm" style={{ "background":"#34D8B3", }}>Place a Bid</button>
             </div>
           </div>
 
@@ -226,7 +226,7 @@ const ByeAndSell = ({ onScroll }) => {
                   <h3 className="text-sm my-auto" style={{ "color": "#0E3860" }}>Current bid:</h3>
                   <h3 className="ml-3 font-medium my-auto" style={{ "color": "#0E3860" }}>$501</h3>
               </div>
-              <button className="text-white py-2 px-6 rounded-sm text-sm" style={{ "background":"#34D8B3", }}>Place A Bid</button>
+              <button className="text-white py-2 px-6 rounded-sm text-sm" style={{ "background":"#34D8B3", }}>Place a Bid</button>
             </div>
           </div>
 
@@ -271,7 +271,7 @@ const ByeAndSell = ({ onScroll }) => {
                   <h3 className="text-sm my-auto" style={{ "color": "#0E3860" }}>Current bid:</h3>
                   <h3 className="ml-3 font-medium my-auto" style={{ "color": "#0E3860" }}>$501</h3>
               </div>
-              <button className="text-white py-2 px-6 rounded-sm text-sm" style={{ "background":"#34D8B3", }}>Place A Bid</button>
+              <button className="text-white py-2 px-6 rounded-sm text-sm" style={{ "background":"#34D8B3", }}>Place a Bid</button>
             </div>
           </div>
 
@@ -317,7 +317,7 @@ const ByeAndSell = ({ onScroll }) => {
                   <h3 className="text-sm my-auto" style={{ "color": "#0E3860" }}>Current bid:</h3>
                   <h3 className="ml-3 font-medium my-auto" style={{ "color": "#0E3860" }}>$501</h3>
               </div>
-              <button className="text-white py-2 px-6 rounded-sm text-sm" style={{ "background":"#34D8B3", }}>Place A Bid</button>
+              <button className="text-white py-2 px-6 rounded-sm text-sm" style={{ "background":"#34D8B3", }}>Place a Bid</button>
             </div>
           </div>
 
@@ -363,7 +363,7 @@ const ByeAndSell = ({ onScroll }) => {
                   <h3 className="text-sm my-auto" style={{ "color": "#0E3860" }}>Current bid:</h3>
                   <h3 className="ml-3 font-medium my-auto" style={{ "color": "#0E3860" }}>$501</h3>
               </div>
-              <button className="text-white py-2 px-6 rounded-sm text-sm" style={{ "background":"#34D8B3", }}>Place A Bid</button>
+              <button className="text-white py-2 px-6 rounded-sm text-sm" style={{ "background":"#34D8B3", }}>Place a Bid</button>
             </div>
           </div>
 
@@ -409,7 +409,7 @@ const ByeAndSell = ({ onScroll }) => {
                   <h3 className="text-sm my-auto" style={{ "color": "#0E3860" }}>Current bid:</h3>
                   <h3 className="ml-3 font-medium my-auto" style={{ "color": "#0E3860" }}>$501</h3>
               </div>
-              <button className="text-white py-2 px-6 rounded-sm text-sm" style={{ "background":"#34D8B3", }}>Place A Bid</button>
+              <button className="text-white py-2 px-6 rounded-sm text-sm" style={{ "background":"#34D8B3", }}>Place a Bid</button>
             </div>
           </div>
 
