@@ -1,7 +1,11 @@
 import React from "react";
 import { useScroll } from "./utils";
-import { Header, Landing, Introduction, AboutPartner, Footer, OrderItem,SignIn,SignUp } from './components';
+import { Header, Landing, Introduction, AboutPartner, Footer, OrderItem,} from './components';
 import ByeAndSell from "./components/ByeAndSell";
+
+import SignIn from "./components/SignIn";
+import SignIn from "./components/SignUp";
+
 
 function App() {
   const [scrollToContent, contentRef] = useScroll()
@@ -14,8 +18,8 @@ function App() {
 
       <Header />
       <ByeAndSell/>
-     <SignIn/>
-    <SignUp/>
+      <SignIn/>
+      <SignUp/>
       <Footer/>
 
 
