@@ -1,6 +1,6 @@
 import React from "react";
 import { useScroll } from "./utils";
-import { Header, Landing, Introduction, AboutPartner, Footer, OrderItem, } from './components';
+import { Header, Landing, Introduction, AboutPartner, Footer, OrderItem,SignIn,SignUp } from './components';
 import ByeAndSell from "./components/ByeAndSell";
 
 function App() {
@@ -14,6 +14,8 @@ function App() {
 
       <Header />
       <ByeAndSell/>
+     <SignIn/>
+    <SignUp/>
       <Footer/>
 
 
