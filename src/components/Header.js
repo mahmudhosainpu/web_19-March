@@ -84,13 +84,7 @@ const Header = () => {
 
             <div className="flex space-x-8">
 
-              {/* Search bar */}
-              <div className="flex cursor-pointer">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5 text-white cursor-pointer my-auto">
-                  <path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 100 11 5.5 5.5 0 000-11zM2 9a7 7 0 1112.452 4.391l3.328 3.329a.75.75 0 11-1.06 1.06l-3.329-3.328A7 7 0 012 9z" clip-rule="evenodd" />
-                </svg>
-                <h3 className="text-white my-auto ml-2 text-sm lg:text-base font-medium cursor-pointer">Search</h3>
-              </div>
+              
 
               <h3 className="my-auto text-white  text-sm lg:text-base font-medium cursor-pointer">Login</h3>
               <h3 className="my-auto text-white  text-sm lg:text-base font-medium cursor-pointer">Signup</h3>
